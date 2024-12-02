@@ -17,3 +17,5 @@ Criar um aplicativo que converte valores entre diferentes moedas, como Dólar, R
 | Lógica de conversão       | Implementação do cálculo            | 2 dias  |
 | Testes e documentação     | Testar funcionalidades e documentar | 1 dia   |
 
+
+
