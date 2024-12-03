@@ -21,8 +21,3 @@ Esse projeto foi elaborado para web e mobile. Para acessar basta clicar no link 
 
 https://conversordemoedas-mmc.netlify.app/
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT.
-
-Feito por Mariana Moioli Capelari - [Entre em contato!](https://www.linkedin.com/in/mariana-moioli-capelari/)
